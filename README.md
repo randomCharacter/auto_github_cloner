@@ -1,2 +1,1 @@
-# auto_cloner
-
+# auto_github_cloner
